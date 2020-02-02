@@ -10,6 +10,8 @@ https://github.com/mozilla/rr
 Will document if someone else is using otherwise refer to docs here:
 https://github.com/mozilla/rr/wiki/Debugging-protips
 
+-- Hit me up on issues or whatever if you are having issues
+
 
 ### Configuration
 Refer to the Macro variables as defined in `log.h`
